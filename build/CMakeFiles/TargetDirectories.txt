@@ -1,0 +1,3 @@
+E:/Other work/VirtualCam/regioncam/build/CMakeFiles/RegionCam.dir
+E:/Other work/VirtualCam/regioncam/build/CMakeFiles/ALL_BUILD.dir
+E:/Other work/VirtualCam/regioncam/build/CMakeFiles/ZERO_CHECK.dir
